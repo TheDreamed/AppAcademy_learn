@@ -9,3 +9,5 @@ let cats = [
 for (let i =0; i< cats.length; i++){
     console.log(`${cats[i].name} likes ${cats[i].likes}`);
 }
+
+//changes test
